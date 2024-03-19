@@ -1,2 +1,23 @@
 # PUM_projekt
 Ocena jakości wina - Posadzy, Żyrek, Stanisławska
+
+Celem zadania jest ocena jakości wina
+
+Uwzględniono dwa zbiory danych dotyczące próbek czerwonego wina vinho verde z północy Portugalii. 
+
+Źródło: P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
+
+1600 obserwacji z 11 zmiennymi wejściowymi i jedną zmienną wyjściową. Zmienne opisują:
+
+Stała kwasowość.
+Kwasowość lotna.
+Kwas cytrynowy.
+Cukier resztkowy.
+Chlorki.
+Wolny dwutlenek siarki.
+Całkowity dwutlenek siarki.
+Gęstość.
+pH.
+Siarczany.
+Alkohol.
+Jakość (ocena od 0 do 10).
